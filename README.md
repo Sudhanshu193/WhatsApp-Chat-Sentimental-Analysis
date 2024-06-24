@@ -1,5 +1,4 @@
 # WhatsApp-Chat-Sentimental-Analysis
-Abstract
 With the exponential growth of social media users, 
 people are really curious about the type of conversation they 
 have with other people and also how communication leads in 
